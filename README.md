@@ -7,7 +7,7 @@ O **Galli AI** é um Chatbot baseado em GPT desenvolvido para ser integrado em p
 
 ## Status do Projeto
 
-Atualmente, o projeto **Galli AI** está na fase de **prototipagem**. O desenvolvimento efetivo do Chatbot será iniciado na sprint atual. Estamos focados em garantir que as funcionalidades do protótipo atendam às necessidades identificadas, antes de avançarmos para as próximas etapas de implementação.
+Atualmente, o projeto **Galli AI** está na fase de **modelagem e criação da base de dados**. O desenvolvimento efetivo do Chatbot foi iniciado na sprint atual. Estamos focados em garantir que as funcionalidades do protótipo atendam às necessidades identificadas, antes de avançarmos para as próximas etapas de implementação.
 
 ## Equipe de Desenvolvimento
 
