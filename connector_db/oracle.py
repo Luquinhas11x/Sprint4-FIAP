@@ -1,9 +1,13 @@
 import cx_Oracle
+import os
+from dotenv import load_dotenv
 import datetime
 
+load_dotenv()
+
 # Configurações de conexão
-username = "rm95633"  # Seu nome de usuário
-password = "070104"    # Sua senha
+username = os.getenv("ORACLE_USERNAME") # Seu nome de usuário
+password = os.getenv("ORACLE_PASSWORD")    # Sua senha
 host = "oracle.fiap.com.br"  # Seu host
 port = "1521"  # Porta padrão do Oracle
 sid = "orcl"  # SID do banco de dados
